@@ -1,10 +1,10 @@
 export default [
     {
       Name: 'N college dr One',
-      North: 40.346104,
-      West: -94.872475,
-      South: 45.9744,
-      East: 20.9100,
+      North: 33.42743408994961,
+      West: -111.88336427583012,
+      South: 33.42743408994923,
+      East: -111.88336427583022,
       Notes: 'circle',
       Attachments: '',
       'Quest-Location': 'N college dr One',
